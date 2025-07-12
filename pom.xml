@@ -110,7 +110,7 @@
 		<dependency>
 			<groupId>io.rest-assured</groupId>
 			<artifactId>json-schema-validator</artifactId>
-			<version>3.0.3</version>
+			<version>3.3.0</version>
 		</dependency>
 
 		<dependency>
@@ -140,7 +140,7 @@
 		<dependency>
 			<groupId>com.google.api-client</groupId>
 			<artifactId>google-api-client</artifactId>
-			<version>1.22.0</version>
+			<version>1.31.2</version>
 		</dependency>
 
 		<dependency>
